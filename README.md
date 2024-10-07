@@ -2,7 +2,7 @@
 # LinkedIn Bot Project
 
 ## Credits
-Many thanks to @MattFlood7 and @klpod221 whose ideas and code helped me to combine profile viewer and auto-connect in a single project.
+Many thanks to [@MattFlood7](https://github.com/MattFlood7) and [@klpod221](https://github.com/klpod221) whose ideas and code helped me to combine profile viewer and auto-connect in a single project.
 
 ## What's missing
 1. Country and job positions is currently semi-hardcoded - replace URLs in SEARCH_GROUPS array to target needed country and roles
